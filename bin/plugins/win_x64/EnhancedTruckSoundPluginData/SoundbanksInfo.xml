@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\</ProjectRoot>
+		<SourceFilesRoot>D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Steam\steamapps\common\Euro Truck Simulator 2\bin\win_x86\plugins\EnhancedTruckSoundPluginData\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="665746725" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\EnhancedTruckSoundData</ObjectPath>
+			<ShortName>EnhancedTruckSoundData</ShortName>
+			<Path>EnhancedTruckSoundData.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3605964472" Name="Brake_RELEASE_HARD" ObjectPath="\Events\Default Work Unit\Brake_RELEASE_HARD"/>
+				<Event Id="3366330699" Name="Brake_RELEASE_SOFT" ObjectPath="\Events\Default Work Unit\Brake_RELEASE_SOFT"/>
+				<Event Id="2883370135" Name="Engine_RESUME" ObjectPath="\Events\Default Work Unit\Engine_RESUME"/>
+				<Event Id="2862969430" Name="Engine_START" ObjectPath="\Events\Default Work Unit\Engine_START"/>
+				<Event Id="3509916502" Name="Engine_STOP" ObjectPath="\Events\Default Work Unit\Engine_STOP"/>
+				<Event Id="3339550901" Name="Gear_AIR" ObjectPath="\Events\Default Work Unit\Gear_AIR"/>
+				<Event Id="1950444439" Name="Gear_CHANGE" ObjectPath="\Events\Default Work Unit\Gear_CHANGE"/>
+				<Event Id="1490164463" Name="Loops_START" ObjectPath="\Events\Default Work Unit\Loops_START"/>
+				<Event Id="3787146485" Name="Loops_STOP" ObjectPath="\Events\Default Work Unit\Loops_STOP"/>
+				<Event Id="1030579316" Name="Turbo_SURGE" ObjectPath="\Events\Default Work Unit\Turbo_SURGE"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="4438753" Language="SFX">
+					<ShortName>load_0600.wav</ShortName>
+					<Path>SFX\load_0600_5B90E310.wem</Path>
+				</File>
+				<File Id="16008427" Language="SFX">
+					<ShortName>gear_air_2.wav</ShortName>
+					<Path>SFX\gear_air_2_BFD19436.wem</Path>
+				</File>
+				<File Id="44920582" Language="SFX">
+					<ShortName>speed_whine.wav</ShortName>
+					<Path>SFX\speed_whine_5B90E310.wem</Path>
+				</File>
+				<File Id="51357701" Language="SFX">
+					<ShortName>air_hard_4.wav</ShortName>
+					<Path>SFX\air_hard_4_BFD19436.wem</Path>
+				</File>
+				<File Id="121289174" Language="SFX">
+					<ShortName>air_soft_1.wav</ShortName>
+					<Path>SFX\air_soft_1_BFD19436.wem</Path>
+				</File>
+				<File Id="215706267" Language="SFX">
+					<ShortName>air_soft_5.wav</ShortName>
+					<Path>SFX\air_soft_5_BFD19436.wem</Path>
+				</File>
+				<File Id="252998753" Language="SFX">
+					<ShortName>rattling.wav</ShortName>
+					<Path>SFX\rattling_5B90E310.wem</Path>
+				</File>
+				<File Id="259921791" Language="SFX">
+					<ShortName>pipe_1400.wav</ShortName>
+					<Path>SFX\pipe_1400_5B90E310.wem</Path>
+				</File>
+				<File Id="266171321" Language="SFX">
+					<ShortName>turbo_surge_short.wav</ShortName>
+					<Path>SFX\turbo_surge_short_C51DA549.wem</Path>
+				</File>
+				<File Id="309989422" Language="SFX">
+					<ShortName>big_turbo_1.wav</ShortName>
+					<Path>SFX\big_turbo_1_5B90E310.wem</Path>
+				</File>
+				<File Id="322874895" Language="SFX">
+					<ShortName>air_hard_5.wav</ShortName>
+					<Path>SFX\air_hard_5_BFD19436.wem</Path>
+				</File>
+				<File Id="332502387" Language="SFX">
+					<ShortName>gear_3.wav</ShortName>
+					<Path>SFX\gear_3_BFD19436.wem</Path>
+				</File>
+				<File Id="364833516" Language="SFX">
+					<ShortName>air_hard_3.wav</ShortName>
+					<Path>SFX\air_hard_3_BFD19436.wem</Path>
+				</File>
+				<File Id="380077110" Language="SFX">
+					<ShortName>air_soft_4.wav</ShortName>
+					<Path>SFX\air_soft_4_BFD19436.wem</Path>
+				</File>
+				<File Id="422944392" Language="SFX">
+					<ShortName>block_0900.wav</ShortName>
+					<Path>SFX\block_0900_5B90E310.wem</Path>
+				</File>
+				<File Id="444901314" Language="SFX">
+					<ShortName>load_0900.wav</ShortName>
+					<Path>SFX\load_0900_5B90E310.wem</Path>
+				</File>
+				<File Id="508819973" Language="SFX">
+					<ShortName>pipe_1400_alt.wav</ShortName>
+					<Path>SFX\pipe_1400_alt_5B90E310.wem</Path>
+				</File>
+				<File Id="510930967" Language="SFX">
+					<ShortName>gear_air_1.wav</ShortName>
+					<Path>SFX\gear_air_1_BFD19436.wem</Path>
+				</File>
+				<File Id="529183082" Language="SFX">
+					<ShortName>gear_1.wav</ShortName>
+					<Path>SFX\gear_1_BFD19436.wem</Path>
+				</File>
+				<File Id="547795421" Language="SFX">
+					<ShortName>block_1600.wav</ShortName>
+					<Path>SFX\block_1600_5B90E310.wem</Path>
+				</File>
+				<File Id="615837839" Language="SFX">
+					<ShortName>block_0600.wav</ShortName>
+					<Path>SFX\block_0600_5B90E310.wem</Path>
+				</File>
+				<File Id="651478213" Language="SFX">
+					<ShortName>blowoff_hard.wav</ShortName>
+					<Path>SFX\blowoff_hard_C51DA549.wem</Path>
+				</File>
+				<File Id="657368595" Language="SFX">
+					<ShortName>pipe_1800.wav</ShortName>
+					<Path>SFX\pipe_1800_5B90E310.wem</Path>
+				</File>
+				<File Id="692226269" Language="SFX">
+					<ShortName>gear_2.wav</ShortName>
+					<Path>SFX\gear_2_BFD19436.wem</Path>
+				</File>
+				<File Id="703525495" Language="SFX">
+					<ShortName>air_soft_2.wav</ShortName>
+					<Path>SFX\air_soft_2_BFD19436.wem</Path>
+				</File>
+				<File Id="740489955" Language="SFX">
+					<ShortName>load_1800.wav</ShortName>
+					<Path>SFX\load_1800_5B90E310.wem</Path>
+				</File>
+				<File Id="761978755" Language="SFX">
+					<ShortName>air_hard_2.wav</ShortName>
+					<Path>SFX\air_hard_2_BFD19436.wem</Path>
+				</File>
+				<File Id="762345309" Language="SFX">
+					<ShortName>pipe_0600.wav</ShortName>
+					<Path>SFX\pipe_0600_5B90E310.wem</Path>
+				</File>
+				<File Id="873777069" Language="SFX">
+					<ShortName>air_hard_1.wav</ShortName>
+					<Path>SFX\air_hard_1_BFD19436.wem</Path>
+				</File>
+				<File Id="890051325" Language="SFX">
+					<ShortName>block_1800.wav</ShortName>
+					<Path>SFX\block_1800_5B90E310.wem</Path>
+				</File>
+				<File Id="969409659" Language="SFX">
+					<ShortName>pipe_0900.wav</ShortName>
+					<Path>SFX\pipe_0900_5B90E310.wem</Path>
+				</File>
+				<File Id="1011040717" Language="SFX">
+					<ShortName>brake_squeel.wav</ShortName>
+					<Path>SFX\brake_squeel_5B90E310.wem</Path>
+				</File>
+				<File Id="1030374520" Language="SFX">
+					<ShortName>pipe_1800_alt.wav</ShortName>
+					<Path>SFX\pipe_1800_alt_5B90E310.wem</Path>
+				</File>
+				<File Id="1051356575" Language="SFX">
+					<ShortName>block_2100.wav</ShortName>
+					<Path>SFX\block_2100_5B90E310.wem</Path>
+				</File>
+				<File Id="1051995244" Language="SFX">
+					<ShortName>suction.wav</ShortName>
+					<Path>SFX\suction_F5B53F07.wem</Path>
+				</File>
+				<File Id="1052103505" Language="SFX">
+					<ShortName>air_soft_3.wav</ShortName>
+					<Path>SFX\air_soft_3_BFD19436.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

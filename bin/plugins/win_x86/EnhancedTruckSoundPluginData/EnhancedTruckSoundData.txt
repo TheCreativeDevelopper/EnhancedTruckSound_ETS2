@@ -1,0 +1,65 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1030579316	Turbo_SURGE			\Default Work Unit\Turbo_SURGE	
+	1490164463	Loops_START			\Default Work Unit\Loops_START	
+	1950444439	Gear_CHANGE			\Default Work Unit\Gear_CHANGE	
+	2862969430	Engine_START			\Default Work Unit\Engine_START	
+	2883370135	Engine_RESUME			\Default Work Unit\Engine_RESUME	
+	3339550901	Gear_AIR			\Default Work Unit\Gear_AIR	
+	3366330699	Brake_RELEASE_SOFT			\Default Work Unit\Brake_RELEASE_SOFT	
+	3509916502	Engine_STOP			\Default Work Unit\Engine_STOP	
+	3605964472	Brake_RELEASE_HARD			\Default Work Unit\Brake_RELEASE_HARD	
+	3787146485	Loops_STOP			\Default Work Unit\Loops_STOP	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	157028401	Brake_AMOUNT			\Default Work Unit\Brake_AMOUNT	
+	314372332	Cabin_WOBBLE			\Default Work Unit\Cabin_WOBBLE	
+	1130155893	Engine_RPM			\Default Work Unit\Engine_RPM	
+	1993809446	Engine_LOAD			\Default Work Unit\Engine_LOAD	
+	2188548142	Truck_SPEED			\Default Work Unit\Truck_SPEED	
+	2222278849	Turbo_RPM			\Default Work Unit\Turbo_RPM	
+	2295079739	Brake_TEMP			\Default Work Unit\Brake_TEMP	
+
+Effect plug-ins	ID	Name	Type				Notes
+	145028528	Static_Sibilance_Remover_Female	Wwise Parametric EQ			
+	751905033	Wwise Guitar Distortion (Custom)	Wwise Guitar Distortion			
+	755348119	Wwise Pitch Shifter (Custom)	Wwise Pitch Shifter			
+	777748094	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	4438753	sca_V8_loaded_0600	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\load_0600_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_loaded_0600		317584
+	16008427	gear_air_2	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\gear_air_2_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Gears\Gear_air\gear_air_2		82488
+	44920582	speed_whine	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\speed_whine_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Noise_road\speed_whine		1072584
+	51357701	air_hard_4	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_hard_4_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_hard\air_hard_4		469280
+	121289174	air_soft_1	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_soft_1_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_soft\air_soft_1		214012
+	215706267	air_soft_5	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_soft_5_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_soft\air_soft_5		139616
+	252998753	cabin_rattle_full	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\rattling_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Noise_cabin\cabin_rattle_full		7574212
+	259921791	sca_V8_pipe_1400	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\pipe_1400_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_pipe\sca_V8_pipe_1400		317580
+	266171321	turbo_surge_short	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\turbo_surge_short_C51DA549.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Turbo_surge\turbo_surge_short		79368
+	309989422	big_turbo_1	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\big_turbo_1_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Turbo_spool\big_turbo_1		362436
+	322874895	air_hard_5	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_hard_5_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_hard\air_hard_5		266988
+	332502387	gear_change_3	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\gear_3_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Gears\Gear_leaver\gear_change_3		151908
+	364833516	air_hard_3	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_hard_3_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_hard\air_hard_3		428916
+	380077110	air_soft_4	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_soft_4_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_soft\air_soft_4		137976
+	422944392	sca_V8_free_0900	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\block_0900_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_free_0900		317204
+	444901314	sca_V8_loaded_0900	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\load_0900_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_loaded_0900		317580
+	508819973	pipe_1400_alt	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\pipe_1400_alt_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_pipe\pipe_1400_alt		317580
+	510930967	gear_air_1	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\gear_air_1_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Gears\Gear_air\gear_air_1		126352
+	529183082	gear_change_1	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\gear_1_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Gears\Gear_leaver\gear_change_1		133232
+	547795421	sca_V8_free_1600	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\block_1600_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_free_1600		317580
+	615837839	sca_V8_free_0600	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\block_0600_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_free_0600		317584
+	651478213	turbo_surge	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\blowoff_hard_C51DA549.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Turbo_surge\turbo_surge		233504
+	657368595	sca_V8_pipe_1800	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\pipe_1800_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_pipe\sca_V8_pipe_1800		317580
+	692226269	gear_change_2	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\gear_2_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Gears\Gear_leaver\gear_change_2		97504
+	703525495	air_soft_2	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_soft_2_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_soft\air_soft_2		256868
+	740489955	sca_V8_loaded_1800	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\load_1800_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_loaded_1800		317588
+	761978755	air_hard_2	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_hard_2_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_hard\air_hard_2		451036
+	762345309	sca_V8_pipe_0600	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\pipe_0600_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_pipe\sca_V8_pipe_0600		317584
+	873777069	air_hard_1	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_hard_1_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_hard\air_hard_1		276388
+	890051325	sca_V8_free_1800	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\block_1800_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_free_1800		317580
+	969409659	sca_V8_pipe_0900	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\pipe_0900_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_pipe\sca_V8_pipe_0900		317584
+	1011040717	brake_squeel	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\brake_squeel_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Brake_disc_squeel\brake_squeel		1065096
+	1030374520	pipe_1800_alt	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\pipe_1800_alt_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_pipe\pipe_1800_alt		317584
+	1051356575	sca_V8_free_2100	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\block_2100_5B90E310.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Scania_V8_block\sca_V8_free_2100		317584
+	1051995244	suction	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\suction_F5B53F07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Turbo_surge\suction		14268
+	1052103505	air_soft_3	D:\Audiokinetic\WwiseProjects\EnhancedTruckSoundPlugin\.cache\Windows\SFX\air_soft_3_BFD19436.wem		\Actor-Mixer Hierarchy\Default Work Unit\Noises\Brakes\Air_brake_soft\air_soft_3		705860
+
