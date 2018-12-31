@@ -1,5 +1,5 @@
 # EnhancedTruckSound ETS2 1.33 + MULTI
-> C'est mod/plugin permettant d'amplifier changer le son au passages des reports / frein moteurs et autres.
+> C'est un mod/plugin permettant d'amplifier changer le son au passages des reports / frein moteurs et autres.
 
 ## Donations :
 
